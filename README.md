@@ -8,7 +8,7 @@ class AnaDeCordoba:
         self.name = "Ana de Córdoba"
         self.profile = ["Artificial Intelligence Developer", "Data Scientist", "Data Analyst"]
         self.tools = ["Python", "VS Code", "Jupyter"]
-        self.certification = "AI-900 Fundamentals and AI-102 Engineer Associate"
+        self.certification = "AI-900 Fundamentals and AI-102 Engineer Associate, DP-900 Azure Data Fundamentals, DP-100 Azure Data Scientist Associate, Google AI Essentials, Scrum Fundamentals Certified (SFC)"
         self.linkedin = "https://www.linkedin.com/in/ana-de-cordoba"
 
     def presentation(self):
